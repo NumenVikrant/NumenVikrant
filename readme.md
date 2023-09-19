@@ -1,6 +1,6 @@
 # Hi there, I'm Vikrant! 👋
 
-I'm a full-time Data Analyst 💹, passionate about diving into data and extracting meaningful insights. 
+#### I'm a full-time Data Analyst 💹, passionate about diving into data and extracting meaningful insights. 
 
 - 🌱 I’m currently learning Pandas and NumPy.
 - 😄 Pronouns: He/Him.
@@ -13,7 +13,7 @@ Feel free to connect with me! Let's talk data and share some insights.
 
 ### My Skill Set  
 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Oracle_Database" target="_blank"><img style="margin: 30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ibHI_qRUb0wJg2MDPt9aBWkxxG8cfnpYvQ&usqp=CAU" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Python" height="70" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Oracle_Database" target="_blank"><img style="margin: 30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ibHI_qRUb0wJg2MDPt9aBWkxxG8cfnpYvQ&usqp=CAU" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Python" height="70" /></a> <a href="https://www.workday.com/" target="_blank"><img style="margin: 30px" src="https://s3-us-west-1.amazonaws.com/upload.comparably.com/26551/companies/26551/logo_1667930186382.jpg" alt="Python" height="70" /></a>
 
 ---
 
