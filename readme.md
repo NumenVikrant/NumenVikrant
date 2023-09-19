@@ -26,3 +26,5 @@ Feel free to connect with me! Let's talk data and share some insights.
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)](https://github.com/NumenVikrant)
+<img src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="Animated GIF" width="280" height="195">
+
