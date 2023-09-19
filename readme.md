@@ -1,9 +1,10 @@
-### Hi there, I'm Vikrant! 👋
+# Hi there, I'm Vikrant! 👋
 
 I'm a full-time Data Analyst 💹, passionate about diving into data and extracting meaningful insights. 
 
 - 🌱 I’m currently learning Pandas and NumPy.
 - 😄 Pronouns: He/Him.
+- 🙋🏻‍♂️ Highly efficinet in Power BI & Excel
 - ⚡ Fun fact: I once calculated the exact number of times my cat ignored me – it's a 'purr-sistent' problem!
 
 Feel free to connect with me! Let's talk data and share some insights.
@@ -24,4 +25,4 @@ Feel free to connect with me! Let's talk data and share some insights.
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)](https://github.com/YourGitHubUsername)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)](https://github.com/NumenVikrant)
