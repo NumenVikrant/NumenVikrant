@@ -9,7 +9,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I'm currently working as a full-time **Data Analyst**, focused on dashboards, reporting, and data-driven decision-making
+- 🔭 I'm currently working as a full-time **Analyst**, focused on dashboards, reporting, and data-driven decision-making
 - 🛠️ Highly proficient in **Power BI** and **Excel**, with working experience in **Python**, **C**, and **Oracle Database**
 - 🌱 Always looking to sharpen my SQL, data modeling, and visualization skills
 - 😄 Pronouns: He/Him
