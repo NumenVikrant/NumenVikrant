@@ -1,26 +1,60 @@
-# Hi there, I'm Vikrant! 👋
+<h1 align="center">Hi there, I'm Vikrant 👋</h1>
+<h3 align="center">Data Analyst | Turning raw data into clear, actionable insights</h3>
 
-#### I'm a full-time Data Analyst 💹, passionate about diving into data and extracting meaningful insights. 
-
-- 😄 Pronouns: He/Him.
-- 🙋🏻‍♂️ Highly effecient in Power BI & Excel
-- ⚡ Fun fact: I once calculated the exact number of times my cat ignored me – it's a 'purr-sistent' problem!
-
-Feel free to connect with me! Let's talk data and share some insights.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Data+Analyst+%F0%9F%92%B9;Power+BI+%26+Excel+Enthusiast;Turning+Data+into+Decisions" alt="Typing SVG" />
+</p>
 
 ---
 
-### My Skill Set  
+### 🙋‍♂️ About Me
 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" /></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Microsoft_Power_BI" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Oracle_Database" target="_blank"><img style="margin: 30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ibHI_qRUb0wJg2MDPt9aBWkxxG8cfnpYvQ&usqp=CAU" alt="C" height="70" /></a> <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Python" height="70" /></a> <a href="https://www.workday.com/" target="_blank"><img style="margin: 30px" src="https://s3-us-west-1.amazonaws.com/upload.comparably.com/26551/companies/26551/logo_1667930186382.jpg" alt="Python" height="70" /></a>
+- 🔭 I'm currently working as a full-time **Data Analyst**, focused on dashboards, reporting, and data-driven decision-making
+- 🛠️ Highly proficient in **Power BI** and **Excel**, with working experience in **Python**, **C**, and **Oracle Database**
+- 🌱 Always looking to sharpen my SQL, data modeling, and visualization skills
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once calculated the exact number of times my cat ignored me — it's a *"purr-sistent"* problem!
+- 📫 Let's connect and talk data, dashboards, and insights!
 
 ---
 
-### Connect with Me 📫
+### 🧰 My Skill Set
 
-[![Connect with Me on LinkedIn](https://img.shields.io/badge/Connect%20with%20Me%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/vikrant-singh-233895191)
-[![Connect via Gmail](https://img.shields.io/badge/Connect%20via%20Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikrantsingh30092000@gmail.com)
-[![Connect on GitHub](https://img.shields.io/badge/Connect%20on%20GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NumenVikrant)
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NumenVikrant&show_icons=true&theme=default&hide_title=false" alt="Vikrant's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NumenVikrant&theme=default" alt="Vikrant's GitHub streak" height="165"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vikrant-singh-233895191" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vikrantsingh30092000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/NumenVikrant" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repositories! ⭐</i></p>
 
 ---
 
