@@ -2,7 +2,6 @@
 
 #### I'm a full-time Data Analyst 💹, passionate about diving into data and extracting meaningful insights. 
 
-- 🌱 I’m currently learning Pandas and NumPy.
 - 😄 Pronouns: He/Him.
 - 🙋🏻‍♂️ Highly effecient in Power BI & Excel
 - ⚡ Fun fact: I once calculated the exact number of times my cat ignored me – it's a 'purr-sistent' problem!
